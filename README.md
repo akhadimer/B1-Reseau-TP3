@@ -6,8 +6,9 @@ Thomas DUMONT
 * a. Utilisez une commande pour prouver que vous avez internet depuis la VM :
 Utilisation de la commande "ping" ayant comme cible "www.google.fr".
 
-    Résultat : 
-![](https://i.imgur.com/aymdXYl.png)
+    Résultat :
+    
+   ![](https://i.imgur.com/aymdXYl.png)
 
     L'accès à internet depuis la VM est donc possible.
 
@@ -73,7 +74,7 @@ Utilisation de la commande "ping" ayant comme cible "www.google.fr".
     commande effectué : 
     > dig ynov.com
 
-        ![](https://i.imgur.com/TAhLsTW.png)
+    ![](https://i.imgur.com/TAhLsTW.png)
     Résultat : 217.70.184.38
 
     * google.com :
@@ -81,7 +82,7 @@ Utilisation de la commande "ping" ayant comme cible "www.google.fr".
     commande effectué : 
     > dig google.com
 
-        ![](https://i.imgur.com/nlmDNpj.png)
+    ![](https://i.imgur.com/nlmDNpj.png)
     Résultat : 216.58.201.238
 
 ## II. Notion de ports et SSH
