@@ -75,6 +75,7 @@ Utilisation de la commande "ping" ayant comme cible "www.google.fr".
     > dig ynov.com
 
     ![](https://i.imgur.com/TAhLsTW.png)
+    
     Résultat : 217.70.184.38
 
     * google.com :
@@ -83,6 +84,7 @@ Utilisation de la commande "ping" ayant comme cible "www.google.fr".
     > dig google.com
 
     ![](https://i.imgur.com/nlmDNpj.png)
+    
     Résultat : 216.58.201.238
 
 ## II. Notion de ports et SSH
